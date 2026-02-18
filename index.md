@@ -7,7 +7,7 @@ Hello World!
 <input id="search-input" type="search" placeholder="Search docs…" style="width:100%;padding:.6rem;font-size:1rem;">
 <ul id="results-container"></ul>
 
-<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.11.0/dest/simple-jekyll-search.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
