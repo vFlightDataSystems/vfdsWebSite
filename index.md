@@ -9,7 +9,7 @@ Virtual Flight Data Systems
 ## Projects
 
 - [vEDST](https://edst.vfds.dev)
-- [vEDST Documentation](https://edst.vfds.dev/docs)
+- [vEDST Documentation](https://docs.edst.vfds.dev)
 
 ---
 
