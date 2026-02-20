@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# vFDS
-
-Virtual Flight Data Systems
-
-## Projects
+# Projects
 
 - [vEDST](https://edst.vfds.dev)
 - [vEDST Documentation](https://docs.edst.vfds.dev)
