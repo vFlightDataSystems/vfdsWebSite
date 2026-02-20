@@ -1,20 +1,18 @@
 ---
-title: Home
+layout: default
 ---
 
-Hello World!
+# vFDS
 
-<input id="search-input" type="search" placeholder="Search docs…" style="width:100%;padding:.6rem;font-size:1rem;">
-<ul id="results-container"></ul>
+Virtual Flight Data Systems
 
-<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{ "/search.json" | relative_url }}',
-    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-    noResultsText: '<li>No results</li>',
-    limit: 20
-  });
-</script>
+## Projects
+
+- [vEDST](https://edst.vfds.dev)
+- [vEDST Documentation](https://docs.edst.vfds.dev)
+
+---
+
+<footer style="text-align: center; margin-top: 60px; padding-top: 20px; border-top: 1px solid #e8e8e8; color: #666; font-size: 14px;">
+<a href="privacy">Privacy Policy</a> | <a href="data_protection">Data Protection Policy</a>
+</footer>
